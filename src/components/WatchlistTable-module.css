@@ -1,0 +1,41 @@
+.watchlisttable {
+    height: 100%;
+    width: 100%;
+
+
+}
+
+thead {
+    text-align: left;
+}
+
+.symboldata {
+    border-bottom: solid;
+
+}
+
+.watchlist {
+    margin: 5px;
+    background-color: rgb(222, 222, 222);
+    border-radius: 10px;
+
+
+
+
+}
+
+.search {
+    margin: 10px;
+
+    display: flex;
+
+    justify-content: center;
+
+}
+
+.searchBar {
+    border-radius: 10px;
+    border: none;
+    width: 100%;
+    height: 20px;
+}
